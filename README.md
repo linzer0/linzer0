@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @linzer0
 - 👀 I’m interested in Game Development
-- 💻 I’m currently working for @NeonBanana as a Unity developer
-- 📫 You can email me
+- 💻 Work position will be anounced little bit later.
 
 <!---
 linzer0/linzer0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
