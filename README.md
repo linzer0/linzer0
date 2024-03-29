@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Linar</h1>
 <h3 align="center">Rᴇᴅᴜᴄɪɴɢ ᴇɴᴛʀᴏᴘʏ • 𝗠𝗶𝗱𝗱𝗹𝗲 𝗨𝗻𝗶𝘁𝘆 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 • 𝕌𝕤𝕖𝕣 𝕀𝕟𝕥𝕖𝕣𝕗𝕒𝕔𝕖 𝕄𝕒𝕤𝕥𝕖𝕣</h3>
 
-- 📝 I regularly write articles on [https://dtf.ru/u/197646-linar-khilazhev](https://dtf.ru/u/197646-linar-khilazhev)
+- 📝 I regularly write articles on [DTF](https://dtf.ru/u/197646-linar-khilazhev) and [Habr](https://habr.com/ru/users/LinarMast/publications/articles/)
 
 - 💬 Ask me about **Unity, Optimization, C#**
 
 - 📫 How to reach me **zzlinarzz@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/linar-khilazhev/](https://www.linkedin.com/in/linar-khilazhev/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/linar-khilazhev/)
 
 - ⚡ Fun fact **Vim & Factorio enjoyer.**
 
