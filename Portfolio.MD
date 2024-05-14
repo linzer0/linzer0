@@ -20,7 +20,6 @@
 <div align="left">
     <h4 align="center"> <a href="https://play.google.com/store/apps/details?id=com.NeonBanana.PVPTD&hl=en&gl=US">Merge Punk</a></h4>
     <p align="center">
-        
         Merge Punk combines elements of Tower Defense and Tower Attack game!.<br/>
         Build, merge, upgrade, defend or attack – everything is in your hands! <br/><br/><br/>
         <img src="Resources/MergePunk_1.webp" width=450>
