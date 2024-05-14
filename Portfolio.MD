@@ -8,10 +8,10 @@
     <p align="center">
         Heroes of Artadis is a free-to-play turn-based online strategy with CCG elements.<br/>
         The game combines the elements of a collectible card game and classic strategy. <br/><br/><br/>
-        <img src="Resources/HOA_1.webp" width=640 height=360>
-        <img src="Resources/HOA_2.webp" width=640 height=360>
-        <img src="Resources/HOA_3.webp" width=640 height=360>
-        <img src="Resources/HOA_4.webp" width=640 height=360>
+        <img src="Resources/HOA_1.webp" width=450 height=360>
+        <img src="Resources/HOA_2.webp" width=450 height=360>
+        <img src="Resources/HOA_3.webp" width=450 height=360>
+        <img src="Resources/HOA_4.webp" width=450 height=360>
     </p>
 </div>
 
