@@ -15,3 +15,4 @@
 - [Between the Lines: Creating Interface Elements Using VectorApi Unity UI Toolkit](https://habr.com/ru/articles/803651/)
 - [Reducing entrophy in the UI: MVP pattern](https://dtf.ru/gamedev/2036089-umenshaem-haos-v-ui-pattern-mvp)
 - [What the Future Holds or New Opportunities of the UI Toolkit](https://dtf.ru/gamedev/2540623-chto-neset-nam-den-gryadushii-ili-novye-vozmozhnosti-ui-toolkita-s-kodom-i-kartinkami)
+- [How to write Hello World using LeoEcs & Zenject](https://github.com/linzer0/hello-world-zenject-leoecs)

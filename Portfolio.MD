@@ -26,10 +26,12 @@
         <img src="Resources/MergePunk_3.webp" width=310 height=550>
     </p>
 </div>
+<br>
 
 ---
 
 <h2 align="center"> Jams Projects</h2>
+<p align="center"> My indie staff </p>
 
 ---
 <div align="left">
@@ -40,6 +42,7 @@
         <img src="Resources/Avel_1.png" width=465>
     </p>
 </div>
+<br>
 
 ---
 
@@ -51,5 +54,35 @@
         <img src="Resources/TC_3.png" width=465>
     </p>
 </div>
+<br>
+
+---
+
+<h2 align="center"> Publications </h2>
+<p align="center"> Btw, I am also tech writer :)</p>
+
+---
+
+<p align="center"><a href="https://habr.com/ru/articles/803651/">Between the Lines: Creating Interface Elements Using VectorApi Unity UI Toolkit</a></p>
+<p align="center"><a href="https://dtf.ru/gamedev/2540623-chto-neset-nam-den-gryadushii-ili-novye-vozmozhnosti-ui-toolkita-s-kodom-i-kartinkami">What the Future Holds or New Opportunities of the UI Toolkit</a></p>
+<p align="center"><a href="https://dtf.ru/gamedev/2215784-razdelyaem-i-vlastvuem-nad-interfeisami-v-unity">Between the Lines: Divide and Conquer Interfaces in Unity</a></p>
+<p align="center"><a href="https://github.com/linzer0/hello-world-zenject-leoecs">How to write Hello World using LeoEcs & Zenject</a></p>
+<p align="center"><a href="https://dtf.ru/gamedev/2036089-umenshaem-haos-v-ui-pattern-mvp">Reducing entrophy in the UI: MVP pattern</a></p>
+
+
+---
+
+<h2 align="center"> Research workshop</h2>
+<p align="center">Tests, R&D and other kind of projects </p>
+
+---
+
+<div align="left">
+    <h2 align="center"> <a href="https://github.com/linzer0/karel-python/tree/master">Karel Python Edition</a></h2>
+    <p align="center">
+    Karel in Python teaches programming basics through fun and interactive coding challenges.<br/> <br>
+    </p>
+</div>
+<br>
 
 ---
