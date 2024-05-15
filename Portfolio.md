@@ -33,7 +33,6 @@
 <h2 align="center"> Jams Projects</h2>
 <p align="center"> My indie staff </p>
 
----
 <div align="left">
     <h2 align="center"> <a href="https://linzet.itch.io/avel">AveL</a></h2>
     <p align="center">
@@ -61,8 +60,6 @@
 <h2 align="center"> Publications </h2>
 <p align="center"> Btw, I am also tech writer :)</p>
 
----
-
 <p align="center"><a href="https://habr.com/ru/articles/803651/">Between the Lines: Creating Interface Elements Using VectorApi Unity UI Toolkit</a></p>
 <p align="center"><a href="https://dtf.ru/gamedev/2540623-chto-neset-nam-den-gryadushii-ili-novye-vozmozhnosti-ui-toolkita-s-kodom-i-kartinkami">What the Future Holds or New Opportunities of the UI Toolkit</a></p>
 <p align="center"><a href="https://dtf.ru/gamedev/2215784-razdelyaem-i-vlastvuem-nad-interfeisami-v-unity">Between the Lines: Divide and Conquer Interfaces in Unity</a></p>
@@ -74,8 +71,6 @@
 
 <h2 align="center"> Research workshop</h2>
 <p align="center">Tests, R&D and other kind of projects </p>
-
----
 
 <div align="left">
     <h2 align="center"> <a href="https://github.com/linzer0/karel-python/tree/master">Karel Python Edition</a></h2>
