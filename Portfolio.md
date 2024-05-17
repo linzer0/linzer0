@@ -1,17 +1,51 @@
 <h1 align="center"> Linar Khilazhev Portfolio </h1>
+<style>
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
 
+h2, h3 {
+    color: #2c3e50;
+    text-align: center;
+
+.highlight {
+    font-weight: bold;
+}
+
+</style>
 
 <h2 align="center"> Commercial projects</h2>
-
 <div align="left">
     <h2 align="center"> <a href="https://play.google.com/store/apps/details?id=com.BulatZavgarov.HeroicBattles&hl=en">Heroes of Artadis</a></h2>
     <p align="center">
         Heroes of Artadis is a free-to-play turn-based online strategy with CCG elements.<br/>
-        The game combines the elements of a collectible card game and classic strategy. <br/><br/><br/>
-        <img src="https://github.com/linzer0/linzer0/blob/main/Resources/HOA_1.webp" width=465>
-        <img src="https://github.com/linzer0/linzer0/blob/main/Resources/HOA_2.webp" width=465>
-        <img src="https://github.com/linzer0/linzer0/blob/main/Resources/HOA_3.webp" width=465>
-        <img src="https://github.com/linzer0/linzer0/blob/main/Resources/HOA_4.webp" width=465>
+        The game combines the elements of a collectible card game and classic strategy.<br/>
+        About my results on this project:
+    <h3 align="center">Game Logic</h3>
+        <ul>
+            <li><span class="highlight">Implemented 20+ daily and seasonal challenges</span></li>
+            <li><span class="highlight">Implemented 30+ character skills</span></li>
+            <li><span class="highlight">Implemented 3+ hero skills</span></li>
+        </ul>
+    <h3 align="center">UI Development</h3>
+        <ul>
+            <li><span class="highlight">Developed extensive logic for player profile customization (including avatar, titles, banners) and dynamic Addressables loading</span></li>
+            <li><span class="highlight">Assisted in organizing scalable interfaces for Figma and Unity canvas logic</span></li>
+        </ul>
+    <h3 align="center">Tooling</h3>
+        <ul>
+            <li><span class="highlight">Created a core scenario tester for QA departments (including creation, recording, running, and result output)</span></li>
+            <li><span class="highlight">Developed a tool for fast creation and integration of Battle Pass challenges</span></li>
+        </ul>
+    <h3 align="center">Technical Stacks</h3>
+        <ul>
+            <li><span class="highlight">Unity Engine, C#, CRP, DOTS, UI Toolkit</span></li>
+        </ul>
+        <img src="/Resources/HOA_1.webp" width=465>
+        <img src="/Resources/HOA_2.webp" width=465>
+        <img src="/Resources/HOA_3.webp" width=465>
+        <img src="/Resources/HOA_4.webp" width=465>
     </p>
 </div>
 
@@ -20,7 +54,46 @@
     <h2 align="center"> <a href="https://play.google.com/store/apps/details?id=com.NeonBanana.PVPTD&hl=en&gl=US">Merge Punk</a></h2>
     <p align="center">
         Merge Punk combines elements of Tower Defense and Tower Attack game!.<br/>
-        Build, merge, upgrade, defend or attack – everything is in your hands! <br/><br/><br/>
+        Build, merge, upgrade, defend or attack – everything is in your hands! <br/><br/>
+        About my results on this project:
+        <h3 align="center">Game Logic</h3>
+    <ul>
+        <li class="highlight">Developed game from scratch to MVP and work version</li>
+        <li class="highlight">Developed usable items and skills mechanics</li>
+        <li class="highlight">Implemented 15+ character skills</li>
+        <li class="highlight">Implemented 5+ hero skills</li>
+        <li class="highlight">Shop and Unity IAP integration</li>
+    </ul>
+    <h3 align="center">UI Development</h3>
+    <ul>
+        <li class="highlight">Created 50% of all UI in the game (including HUD, Shop, Collections)</li>
+        <li class="highlight">Designed an extensible architecture <a href="https://github.com/linzer0/interface-pattern-mvp" class="highlight">MVP</a></li>
+    </ul>
+    <h3 align="center">Client-Server</h3>
+    <ul>
+        <li class="highlight">Designed and implemented a hybrid client-server relationship based on clear .NET (same for client and server)</li>
+        <li class="highlight">Decreased network traffic by 50% (optimized GET/POST requests)</li>
+    </ul>
+    <h3 align="center">Optimization</h3>
+    <ul>
+        <li class="highlight">FPS optimization (from 30 to stable 60) for mobile devices</li>
+        <li class="highlight">Memory traffic optimization (from ~10 KB per frame to almost zero)</li>
+        <li class="highlight">Added pooling for characters, projectiles, and other objects</li>
+    </ul>
+    <h3 align="center">Process Management</h3>
+    <ul>
+        <li class="highlight">Supervised processes like sprint planning, sprint finishing, and retrospective</li>
+        <li class="highlight">Assisted in transitioning from waterfall planning to agile methodology</li>
+    </ul>
+    <h3 align="center">Other Contributions</h3>
+    <ul>
+        <li class="highlight">Assisted the CTO with technical interviews for the Unity Developer position</li>
+        <li class="highlight">Implemented Facebook, Google Play, Firebase, and other SDKs</li>
+    </ul>
+    <h3 align="center">Technical Stacks</h3>
+    <ul>
+        <li class="highlight">Unity Engine, C#, URP, uGUI</li>
+    </ul>
         <img src="https://github.com/linzer0/linzer0/blob/main/Resources/MergePunk_1.webp" width=310 height=550>
         <img src="https://github.com/linzer0/linzer0/blob/main/Resources/MergePunk_2.webp" width=310 height=550>
         <img src="https://github.com/linzer0/linzer0/blob/main/Resources/MergePunk_3.webp" width=310 height=550>
