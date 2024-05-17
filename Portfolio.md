@@ -1,13 +1,5 @@
 <h1 > Linar Khilazhev Portfolio </h1>
 
-<style>
-
-.highlight {
-    font-weight: bold;
-}
-
-</style>
-
 <h2> Commercial projects</h2>
 <div >
     <h2><a href="https://play.google.com/store/apps/details?id=com.BulatZavgarov.HeroicBattles&hl=en">Heroes of Artadis</a></h2>
