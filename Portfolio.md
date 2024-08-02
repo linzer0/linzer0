@@ -117,7 +117,7 @@
 
 <h2> Publications </h2>
 <p> Btw, I am also tech writer :)</p>
-
+<p><a href="https://habr.com/ru/articles/832798/">Between the Lines: Animation in UI Toolkit</a></p>
 <p><a href="https://habr.com/ru/articles/803651/">Between the Lines: Creating Interface Elements Using VectorApi Unity UI Toolkit</a></p>
 <p><a href="https://dtf.ru/gamedev/2540623-chto-neset-nam-den-gryadushii-ili-novye-vozmozhnosti-ui-toolkita-s-kodom-i-kartinkami">What the Future Holds or New Opportunities of the UI Toolkit</a></p>
 <p><a href="https://dtf.ru/gamedev/2215784-razdelyaem-i-vlastvuem-nad-interfeisami-v-unity">Between the Lines: Divide and Conquer Interfaces in Unity</a></p>
