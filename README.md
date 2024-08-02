@@ -11,6 +11,7 @@
 
 <h3> Featured articles</h3>
 
+- [Between the Lines: Animation in UI Toolkit](https://habr.com/ru/articles/832798/)
 - [Between the Lines: Divide and Conquer Interfaces in Unity](https://dtf.ru/gamedev/2215784-razdelyaem-i-vlastvuem-nad-interfeisami-v-unity)
 - [Between the Lines: Creating Interface Elements Using VectorApi Unity UI Toolkit](https://habr.com/ru/articles/803651/)
 - [Reducing entrophy in the UI: MVP pattern](https://dtf.ru/gamedev/2036089-umenshaem-haos-v-ui-pattern-mvp)
